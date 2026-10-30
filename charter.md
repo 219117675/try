@@ -8,6 +8,10 @@
 
 > The evidence for this section is the FundiShop Agile Team Charter. It identifies the team members, their assigned responsibilities, the project's purpose, team values, communication practices, working agreements, Definition of Done, risks and team sign-off. The charter provides a shared reference for how the team planned to collaborate and develop the FundiShop service marketplace.
 
+
+<img src="TeamCharter.png" width="200" 
+  style="border-radius:50%; border:3px solid #333;">
+
 ![FundiShop Agile Team Charter showing the project title and team member details](TeamCharter.png)
 
 ![FundiShop team charter and member responsibilities](Untitled%20design%20%281%29.png)
